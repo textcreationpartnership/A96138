@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The malignants conventicle: or, A learned speech spoken by M. VVeb, a citizen, to the rest of his society, which did consist of [brace] citizen, malignants, papists, [double brace] priests, apprentices, wenches. At their common tavern meeting-house in Lincolnes Inne-fields. In which are many things very necessary to be observed, and of so great concernment, that if you will not believe, then take what followes: for now all is out.</title>
+            <author>Web, M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96138</idno>
+            <idno type="STC">Wing W1204</idno>
+            <idno type="STC">Thomason E245_24</idno>
+            <idno type="STC">ESTC R22603</idno>
+            <idno type="EEBO-CITATION">99871796</idno>
+            <idno type="PROQUEST">99871796</idno>
+            <idno type="VID">158363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158363)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E245[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The malignants conventicle: or, A learned speech spoken by M. VVeb, a citizen, to the rest of his society, which did consist of [brace] citizen, malignants, papists, [double brace] priests, apprentices, wenches. At their common tavern meeting-house in Lincolnes Inne-fields. In which are many things very necessary to be observed, and of so great concernment, that if you will not believe, then take what followes: for now all is out.</title>
+                  <author>Web, M.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Anti-Dam-mee, in Tell-troth Lane, at this signe of the Holly-wand.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>A political satire.</note>
+                  <note>Annotation on Thomason copy: "Jan: 28th 1642".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158363:1" rendition="simple:additions"/>
+            <head>The Malignants Conventicle: OR, A learned Speech ſpoken by M. VVEB, a Citizen, to the reſt of his Society, Which did conſiſt of <hi>Citizen-Malignants, Papiſts, Prieſts, Apprentices, Wenches.</hi>
+            </head>
+            <p>At their common Tavern meeting houſe in <hi>Lincolnes</hi> Inne-fields.</p>
+            <p>In which are many things very neceſſary to be obſerved, and of ſo great con<g ref="char:EOLhyphen"/>cernment, that if you will not believe, then take what follows: For now all is out.</p>
+            <figure>
+               <figDesc>depiction of Mr. Webb giving his speech in the tavern</figDesc>
+            </figure>
+            <p>LONDON, Printed for Anti-Dam-mee, in Tell-troth Lane, at the ſigne of the Holly-wand. 1643. <add>Jan: 28<hi rend="sup">th</hi> 1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:158363:2"/>
+            <pb n="1" facs="tcp:158363:2"/>
+            <head>THE Malignants Conventicle: OR, A learned Speech ſpoken by M. VVEB, a Citi<g ref="char:EOLhyphen"/>zen, to the reſt of his Society, at their common Tavern meeting-houſe in Lincolns-Inne-fields.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have a great matter to impart unto you, ther<g ref="char:EOLhyphen"/>fore I pray you prepare your eares to attend what I ſhall ſay, we are none here (I hope) but ſuch as are faithful.</p>
+            <p>You may remember that at our firſt meet<g ref="char:EOLhyphen"/>ing we adventured on a far more dangerous work then now we ſail by: The Cavaliers were not then ſo well backt with a popiſlt Army, that will ſtand ſure to us againſt the King and Parliament, and all the honeſt prefeſſors of the truth in the City, but now they are grown ſtrong, and that diſtracts the Parliament, and makes all the true Proteſtants in the City at their wits end; You know how carefull I have been to accom<g ref="char:EOLhyphen"/>pliſh the expectation of all our hopes, though our bad cauſe hath had as bad ſucceſſe, yet let us not leave off: for if ever we do but gaine an op<g ref="char:EOLhyphen"/>portunity to plunder the City, our crackt fortunes may gaine eſtates, and though we are now ſo poore that all we about an hundred of us, are not able to pay for theſe two gallons of Wine we have called for, but muſt ſcore for one of them, yet would that pray repleniſh all our wants and fill our purſes.</p>
+            <p>Gentlemen, I know you expect that I ſhould ſpeake ſomething of what is paſt, and therein I ſhall endeavour to give you the beſt ſatisfaction I can: You know what faire promiſes Father <hi>Andrewes</hi> and Father <hi>Bul<g ref="char:EOLhyphen"/>lock</hi>
+               <pb n="2" facs="tcp:158363:3"/>and the reſt of the Prieſts and Fryers made us if we could <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt damnable deſigne they ſet us on, beſides the great rewards of ma<g ref="char:EOLhyphen"/>ny; you know that my Brother Toll-taker is to be quafferer to the new Cardinall, and my Brother Cheeſe-monger the Clarke of the Kitchen; the bonny Porter ſhall be made a great Doctor by a ſpeciall Writ: and his conſen <hi>Iohn</hi> the Cardinals chiefe Secretary, and for the reſt you know what was faithfully promiſed, though they never meane to pay it; Bre<g ref="char:EOLhyphen"/>thren, you know our caſe is deſperate; therefore deſperate deſignes doe beſt befit us, if we ever expect advancement.</p>
+            <p>You know the firſt deſigne was to frame a cunning Petition in pre<g ref="char:EOLhyphen"/>tence of peace, to gaine an opportunity of mutiny in the City, and this was carried very diſcreetly, we got many thouſand of hands to it in a ſhort time, for we made them believe (poore ſimple fooles) that it was for peace, and there were (as we thought) three quarters of the City rea<g ref="char:EOLhyphen"/>dy to back us, for trading was growne dead in the City, and the Parlia<g ref="char:EOLhyphen"/>ment cauſed them to pay money for their own good and ſafety, and gladly might they pay it to prevent us if they underſtood themſelves well, what with our diſſembling words, and what with our fained hands we flattered, and forged names enough to our Petition, and with a good<g ref="char:EOLhyphen"/>ly attendance we came to <hi>Guild-Hall,</hi> with good cudgells in our hands, we paſſed the guard of Souldiers, and entred the Hall; and thinking the City to be our owne, wee fell upon the Souldiers and beat them terribly, and had not thoſe without broke in upon us, we had gone up to the Par<g ref="char:EOLhyphen"/>liament men that was above with the Aldermen, and we had made a bloody day of it, but when we ſaw that our ſide was not ſo ſtrong as we expected, we was faine to runne ſome one way, ſome another to hide us any where, yet ſome very manfully ſtayed and delivered the Petition, and it was read, but here was the miſchiefe of it, the cunning paces that read it diſcovered all our intents, and underſtood by the Petition that we did but jeare the City with it; and ſo they ſent us away like fooles as we came, and ſome of us were committed to Priſon as we juſtly deſer<g ref="char:EOLhyphen"/>ved; For I muſt confeſſe unto you Gentlemen, that it went extreamly againſt my conſcience, and ſo it doth ſtill, to abuſe the Parliament: but what will not ſuch deſperate men as we are do for hope of profit and honour? This makes us forget religion, love, liberty, conſcience, and all that doth not conduce to our profit. Nay they were ſo cunning to diſcern that we would have peace without truth, and indeed you know it was ſo; fo we did not deſire truth, onely pretended to deſire peace, aiming neither it peace nor truth. Deſire truth! No: if you would
+<pb n="3" facs="tcp:158363:3"/>have the truth of it, we could with that all truth and Peace work at an end in the City, that we might come to plundiering and pillaging, for there lies our hopes, if we could once ſet them together by the Eares, we would part, the ſpoyle.</p>
+            <p>Gentlemen, you know that when this project had ſo bad an iſſue, we cauſed our Apprentizes to combine as we did before them, that they might ſee if they could cozen the Parliament by violent petitioning, we our ſelves would be neare hand, if they wanted aid, and indeed poor ſilly ſoules they were as earneſt for us as we could deſire, they got thouſands of Hands to their Petition preſently, and to <hi>Weſtminſter</hi> they went ſeverall times with it, and ſtood ſo ſtoutly to our Treachery, that they were ready to fall foule on moſt religious Members of both Houſes, they cryed for Peace on any tearmes, Peace, nothing but Peace, for you know if the Parliament would let our Cavaliers have Peace on what tearmes they would, then they would (as we) give them good words till we had gained an opportunity to take a<g ref="char:EOLhyphen"/>way all that they have from them, then we would advance our fortunes, in<g ref="char:EOLhyphen"/>rich our ſelves, and murder them; then <hi>Nine-penny-Moll,</hi> nor you <hi>sarah,</hi> nor my Cozen <hi>Beſſe</hi> there, would command us, as we how are glad to ſub<g ref="char:EOLhyphen"/>ject to you, but the ſpruce Citizens Wives and daughters ſhould ſatisfie the luſt both of them and us, as the Northern Laſſes have done to ſome of them already.</p>
+            <p>Well our poor prentizes had but a cold Anſwer, the Houſe found that it was but a fallacy, and reſpected them accordingly, and our hopes was twarted in this alſo.</p>
+            <p>So we drew up a moſt damnable abuſive Booke amongſt our ſelves, to ſcandalize the Parliament, I know you have all ſeen it, it is called the Ci<g ref="char:EOLhyphen"/>ties Complaint to the Houſe of Commons, &amp;c. This Booke we got a foo<g ref="char:EOLhyphen"/>liſh Printer that did not know what he did, to print, for it was ſuch a moſt wicked, invective Pamphlet, that had hee had either Conſcience, Religion, Obedience, or humanity, if he knew what it was, he would not have med<g ref="char:EOLhyphen"/>dled with it, nor indeed would I Gentlmen, had I any other hopes to reſt on.</p>
+            <p>But we got it perfected, and thouſands of them printed, and it beguiled the Affections of many, and was applauded, and generally amongſt our bre<g ref="char:EOLhyphen"/>thern malignants, and Newtrals believed, wee ſcattered them about the Pallace at Weſtminſter, about the Hall, and in the City, and did it ſo cun<g ref="char:EOLhyphen"/>ningly, that we were none of us taken, only the Printer was ſuſpected, and ſent for, but we got him off, becauſe he ſo handſomly fained the Authour thereof to be a particular man, ſlipt out of the way, and ſo it was huſht o<g ref="char:EOLhyphen"/>ver, then we fell to printing of them again, and got ſome ſpending money,
+<pb n="4" facs="tcp:158363:4"/>by them, which hath kept us ever ſince, but here was a miſchiefe fell out in this too, for ſome cunning pate or other hath put the ſame Title upon an other Pamphelet that diſcovered all our knavery, and did us as much hurt as our owne did us good; ſurely God is againſt us, for we ſtrive directly againſt the preſcript rule me are taught in his holy word. But let us not be weary, but runne till we come to the end of the Race, perhaps we may win the Garland, but I muſt tell you it is very unlikely.</p>
+            <p>I know you are not ignorant how my brother <hi>Towler</hi> plaid Bo-peepe with them, when he runne like a hunted Hare, (being the more fearefull becauſe his Conſcience ſmote him, for his knavery) but he was taken and carried to Priſon (as well he deſerved, and my brother Cheeſmonger was as faithfull as he, for he had furniſhed his houſe with good ſtore of Ammunition for our deſigne, if ever we gaine an opportunity to plunder, but I know not how God that brings all wickedneſſe to light, in due time diſcovered that to the Parliament, and it was all taken, and we deprived of him too.</p>
+            <p>Afterwards we wrote two pretended Speeches, one of the Earl of <hi>Pem<g ref="char:EOLhyphen"/>brokes,</hi> the other the Lord <hi>Brooks,</hi> and ſold three times as many of them as of the former, nay we forged the Clearke of the Parliaments hand to it, and an order for thanks be given to the Lord <hi>Brooke</hi> for the ſame, and this pro<g ref="char:EOLhyphen"/>ject tooke bravely, for there were thouſands in the City did verrily believe it to be true, but at laſt it was diſcerned, and the Printer committed, but this buſineſſe paſſed well, if may call it well, being ſuch a baſe Action.</p>
+            <p>The Cavaliers by this time in the Countries were confident that we had made London our owne, and ſo we our ſelves thought too, but that our conſciences told us that ſuch courſes could never proſper.</p>
+            <p>They fell to pillaging, robing, and killing the Country Proteſtants, and hearkning dayly when an opportunity would envite them to London, but amongſt the reſt of the Cavaliers that came from Oxford into Nottingham ſhire; were baſely ſerved at a little Village neare Newarke upon Trent, there was about forty of them that had made a vow to raviſh all the pret<g ref="char:EOLhyphen"/>ty maids in the Towne, this Proteſtation they made at an Ale-houſe in Newarke, and was over heard by a Boy that drew Beere in the houſe, who went to this Village, and gave the People of the Towne notice thereof. The Cavaliers not knowing hereof went upon their deſigne, and when they came thither they eſpied a very handſome nut-brown Laſſe, ſtanding near a great houſe that was at the Townes end; who ſeeing of them come towards her took ſanctuary in the houſe: and about twenty of the Cavaliers after <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, expecting that they had gotten a prize, but when they were come into he Hall, they found above forty good ſtout fellowes that were ready pro<g ref="char:EOLhyphen"/>vided
+<pb n="5" facs="tcp:158363:4"/>for them, who ſhut faſt the doore, and cudgelled them ſoundly, that they were not able neither to go nor ſtand, ſo that they had little liſt after<g ref="char:EOLhyphen"/>wards to wenching; the other twenty hearing them cry out ran all away, fearing they were betrayed (for the leaſt ſuſpition in the world feares an ill cauſe) and about halfe a mile off they came to a Farmers houſe, which ſtood at the end of another little village, where was no body at home but the good wife and her maid, who ſeeing them come, left their dairy and went into the Town, the mean while the Cavaliers ſeized upon their Butter-milk and curds and whay and creame, and ſuch white meat as was in the dairy-houſe, where they filled their bellies ſo full that they could ſcarce go, and when they had done, carried with them ſuch Hens and Ducks and other poultry as they could well, for indeed their bellies were ſo full they could ſcarce carry themſelves.</p>
+            <p>At laſt the good wife was returned with her maid and above forty women with her, for the men were ſoon gone to the other village to prevent the plot, and the reſt were at plow, or ſome husbandmens labour; and all the Cavaliers were gone out of the Dairy-houſe, but one of the women eſpied two or three of them together untruſſing in a ditch, who lay as cloſe as they could for feare the women ſhould ſpy them, ſhe gave notice to the reſt, who fell upon them with Spits, Forks, Racks, Spades, Staves, and ſuch wea<g ref="char:EOLhyphen"/>pons as they could get, and baſted them welfavouredly, and the Buttermilk and Whay did ſo worke with them, that they were ſo troubled with the ſquirt, that the women traſed them by the ſmell, and ſo met with moſt of them, for they were not able to fly faſt before them, ſo that they were ſound<g ref="char:EOLhyphen"/>ly paid before they got to <hi>Newarke,</hi> and had little liſt to boaſt of their ſuc<g ref="char:EOLhyphen"/>ceſſe, or to attempt the like after.</p>
+            <p>But to go on concerning our proceedings here, you know there was a Common-Hall called at <hi>Guild-Hall,</hi> and we did hope then to have cryed downe the Lord Major and to have raiſed a mutiny againſt the Parliament men that came thither, my coſen <hi>Iohn</hi> be was appointed to ſtand in the Court yard, and raile againſt the Lord Major and the reſt, and call them Traytors; and curſe them ſoundly, which he performed excellent well, and indeed had many fell in to ſide with him as he thought, but one that knowes him (who hates our baſe courſes) took notice of him, and hath diſcovered him, and I feare he will be apprehended if he do not fly for it, therefore we muſt be carefull to cheriſh him all we can, leaſt he diſcover us, and ſo we be all han<g ref="char:EOLhyphen"/>ged for abuſing the King and Parliament, and indeed the whole Kingdome.</p>
+            <p>We had a great deale of care to take the opportunity of this day, we had many ſcours, and prevailed with ſome Common-counſell-men to be ready
+<pb n="6" facs="tcp:158363:5"/>to aſſiſt us in the making of an uproare, which was attempted at the firſt but ſoon daſht againe, and (indeed) whereas we thought to gaine great ad<g ref="char:EOLhyphen"/>vantage that day, our bad cauſe ſuſtained loſſe.</p>
+            <p>Such care had we to make all things ſure that we went to the Brokers, and hired Gownes that we might be entertained like Common-councell men of the City without ſuſpition, and there we ruſht in and ſtood amongſt them in our borrowed Gownes (I wonder indeed that the Broakers would truſt us, it may be that they will want the returne of ſome of them) but here was a miſchiefe befell us too, for the Proctor was known, and is like to anſwer for it: I tell you Gentlemen, me thought when we were in our grave fur'd gownes, that we were in too good a poſture to betray, or to do the leaſt hurt to an honeſt cauſe, as you know theirs is; I know not (what was the cauſe) but I am ſure that we were aſhamed of our cauſe, and ſo we ſhall ever be, we did as much as nothing.</p>
+            <p>Yet I conceive that we have now gained a good opportunity to plunder the City if our Apprentiſes can but obtaine this preſent opportunity of e<g ref="char:EOLhyphen"/>quall power with the beſt Citizens to diſpoſe of State matters, which will be a great means of mutiny, let us be wiſe to raiſe a ſtrong commotion, leaſt delay diſcover all our trechery.</p>
+            <p>Gentlemen, you ſee hitherto we have not proſpered nor our cauſe, it is bad and thrives accordingly, what ſhall we do in the next place, I deſire that every one may freely ſpeake, that we may conclude what to doe, for now is the time or never, we and all our buſineſſe is more and more diſcovered, and the more we delay the weaker we ſhall now be, therefore let us conclude at this time concerning the next deſigne.</p>
+            <p>
+               <hi>The Anſwer that was made to this Speech is not yet diſcovered, when I heare of it, I ſhall publiſh it.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
